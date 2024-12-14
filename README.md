@@ -31,7 +31,7 @@ This project uses the **Kaggle Brain Tumor dataset**, which consists of MRI imag
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/brain-tumor-classification.git
+   git clone https://github.com/Tusharkn12/brain-tumor-classification.git
    cd brain-tumor-classification
    ```
 
